@@ -4,6 +4,7 @@ Implementation of stereo matching algorithms using C++/MFC in Visual Studio: Cen
 - GraphCuts (OpenCV) was totally from OpenCV (I only made an interface from my code to connect to this).
 
 These codes were used in my papers:
+
 [1] https://www.researchgate.net/publication/239734845_Adaptive_ternary-derivative_pattern_for_disparity_enhancement
 
 [2] https://www.researchgate.net/publication/239734853_Toward_Real-Time_Vehicle_Detection_Using_Stereo_Vision_and_an_Evolutionary_Algorithm
