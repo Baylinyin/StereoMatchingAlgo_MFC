@@ -1,0 +1,2 @@
+F:\_Ntt\_MyDocuments\_code\110705_stereo_algo\testdata\tsukuba_320x240\img1.bmp
+F:\_Ntt\_MyDocuments\_code\110705_stereo_algo\testdata\tsukuba_320x240\img2.bmp
