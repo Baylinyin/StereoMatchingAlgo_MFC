@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "110705_stereo_algo", "110705_stereo_algo\110705_stereo_algo.vcxproj", "{98DF9EC6-7423-459B-9CA7-FB415A0269C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DF9EC6-7423-459B-9CA7-FB415A0269C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98DF9EC6-7423-459B-9CA7-FB415A0269C1}.Debug|Win32.Build.0 = Debug|Win32
+		{98DF9EC6-7423-459B-9CA7-FB415A0269C1}.Release|Win32.ActiveCfg = Release|Win32
+		{98DF9EC6-7423-459B-9CA7-FB415A0269C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
