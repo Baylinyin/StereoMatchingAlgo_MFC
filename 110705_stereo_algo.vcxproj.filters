@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\algo">
+      <UniqueIdentifier>{b2e186bc-b383-47ac-9517-fbfa5f99defe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\census">
+      <UniqueIdentifier>{92b063eb-bb4b-4e24-8cc1-b28bcc8a68af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\dp">
+      <UniqueIdentifier>{260185e6-ce87-4f43-9596-c76891b0f08f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\sad">
+      <UniqueIdentifier>{926c957f-a3a9-4fc6-bc80-1515826d879a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\gc">
+      <UniqueIdentifier>{b74c0519-82c9-40a7-8588-aa4d153d9e26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\util">
+      <UniqueIdentifier>{f255a59c-748c-46ff-8b62-6c15247469b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\My110705_stereo_algo.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\110705_stereo_algo.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algo\census\Census.h">
+      <Filter>Source Files\algo\census</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\dp\DynamicProgramming.h">
+      <Filter>Source Files\algo\dp</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\sad\SAD.h">
+      <Filter>Source Files\algo\sad</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\gc\GraphCuts.h">
+      <Filter>Source Files\algo\gc</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\StereoAlgo.h">
+      <Filter>Source Files\algo</Filter>
+    </ClInclude>
+    <ClInclude Include="util\MyTimer.h">
+      <Filter>Source Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Util.h">
+      <Filter>Source Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="110705_stereo_algo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="110705_stereo_algoDlg.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="110705_stereo_algo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="110705_stereo_algoDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\census\Census.cpp">
+      <Filter>Source Files\algo\census</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\dp\DynamicProgramming.cpp">
+      <Filter>Source Files\algo\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\sad\SAD.cpp">
+      <Filter>Source Files\algo\sad</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\gc\GraphCuts.cpp">
+      <Filter>Source Files\algo\gc</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\StereoAlgo.cpp">
+      <Filter>Source Files\algo</Filter>
+    </ClCompile>
+    <ClCompile Include="util\MyTimer.cpp">
+      <Filter>Source Files\util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="110705_stereo_algo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
